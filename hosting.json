@@ -1,0 +1,30 @@
+{
+ "parts": {
+  "00": [
+   "media/00-what-continuum-is-part1.mp4",
+   "media/00-what-continuum-is-part2.mp4"
+  ],
+  "01": [
+   "media/01-get-your-conversations.mp4"
+  ],
+  "02": [
+   "media/02-choose-storage.mp4"
+  ],
+  "03": [
+   "media/03-build-searchable-history.mp4"
+  ],
+  "04": [
+   "media/04-meaning-search.mp4"
+  ],
+  "05": [
+   "media/05-build-personal-context-part1.mp4",
+   "media/05-build-personal-context-part2.mp4"
+  ],
+  "06": [
+   "media/06-connect-your-tool.mp4"
+  ],
+  "07": [
+   "media/07-understand-your-starting-point.mp4"
+  ]
+ }
+}
