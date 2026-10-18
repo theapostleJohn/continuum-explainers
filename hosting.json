@@ -26,5 +26,6 @@
   "07": [
    "media/07-understand-your-starting-point.mp4"
   ]
- }
+ },
+ "cdn_base": "https://cdn.jsdelivr.net/gh/theapostleJohn/continuum-explainers@v1"
 }
