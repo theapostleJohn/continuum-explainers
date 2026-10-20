@@ -6,4 +6,4 @@ Eight short explainer videos that play inside the Continuum setup wizard, one be
 - `media/<nn>-<name>.vtt`: captions; `media/<nn>-<name>.jpg`: poster frames
 - `hosting.json`: the parts per video and the CDN base URL
 
-Versions: `v1` (first NotebookLM cut), `v2` (rebuilt in the Agent Fluency style, constitution-based setup).
+Versions: `v1` (first NotebookLM cut), `v2` (rebuilt for the constitution-based setup), `v3` (same videos in the Agent Fluency palette: ivory, near-black and terracotta).
