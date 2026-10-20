@@ -1,0 +1,361 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:00.880
+Welcome.
+
+00:00:00.880 --> 00:00:03.120
+Before we actually set anything up today, I just
+
+00:00:03.120 --> 00:00:05.440
+want to show you what Continuum actually is.
+
+00:00:05.440 --> 00:00:07.840
+Once you see the big picture, well, every choice in
+
+00:00:07.840 --> 00:00:10.240
+the setup process is going to make perfect sense.
+
+00:00:10.240 --> 00:00:12.480
+This explainer takes about three minutes or so.
+
+00:00:12.480 --> 00:00:15.360
+And then you'll just press one button and we'll begin.
+
+00:00:15.360 --> 00:00:17.840
+So here's the problem we all run into.
+
+00:00:17.840 --> 00:00:19.840
+You spend an hour with an AI, right?
+
+00:00:19.840 --> 00:00:22.400
+You're explaining your business, your specific offer,
+
+00:00:22.400 --> 00:00:24.320
+maybe what you decided last month, you
+
+00:00:24.320 --> 00:00:26.080
+get it to a really great place.
+
+00:00:26.080 --> 00:00:28.080
+But then the chat ends, and that next
+
+00:00:28.080 --> 00:00:31.200
+conversation, it just starts completely from zero.
+
+00:00:31.200 --> 00:00:34.400
+Now the AI didn't forget on purpose, it simply never
+
+00:00:34.400 --> 00:00:36.800
+had anywhere to actually keep what you told it.
+
+00:00:36.800 --> 00:00:39.840
+Continuum gives it somewhere to keep it.
+
+00:00:39.840 --> 00:00:41.680
+If you think about how your own memory
+
+00:00:41.680 --> 00:00:44.480
+works, scientists generally describe it in two main
+
+00:00:44.480 --> 00:00:47.440
+layers Layer one is your working memory.
+
+00:00:47.440 --> 00:00:49.600
+That's just the handful of things you're holding in your
+
+00:00:49.600 --> 00:00:52.000
+mind right now, this very minute while you work.
+
+00:00:52.000 --> 00:00:54.560
+Then layer two is your long-term memory,
+
+00:00:54.560 --> 00:00:56.560
+which actually splits into two halves.
+
+00:00:56.560 --> 00:01:00.000
+One half is your semantic memory, basically what you know,
+
+00:01:00.000 --> 00:01:03.520
+your facts, your preferences, decisions you've made over time.
+
+00:01:03.750 --> 00:01:07.270
+The other half is episodic memory, which is what happened.
+
+00:01:07.270 --> 00:01:10.150
+Those are specific moments you can actually go back to.
+
+00:01:10.150 --> 00:01:13.510
+And underneath both of those is the record itself, meaning
+
+00:01:13.510 --> 00:01:16.390
+the notes and files those memories originally came from.
+
+00:01:16.390 --> 00:01:17.830
+I'd like you to hold on to this
+
+00:01:17.830 --> 00:01:21.030
+picture, because Continuum is built exactly this way.
+
+00:01:21.030 --> 00:01:23.510
+So how does all this connect to your AI?
+
+00:01:23.510 --> 00:01:25.350
+Well, when people say an AI has
+
+00:01:25.350 --> 00:01:27.190
+context, they really just mean whatever is
+
+00:01:27.190 --> 00:01:28.470
+right in front of it right now.
+
+00:01:28.470 --> 00:01:29.990
+That is its working memory.
+
+00:01:29.990 --> 00:01:31.350
+Anything that isn't right there in front
+
+00:01:31.350 --> 00:01:33.030
+of it, it simply cannot use.
+
+00:01:33.030 --> 00:01:36.790
+So the whole game here is context management, deciding exactly
+
+00:01:36.790 --> 00:01:39.510
+what goes in front of the AI and when, and
+
+00:01:39.510 --> 00:01:42.230
+keeping everything else somewhere it can be found really fast.
+
+00:01:42.230 --> 00:01:44.630
+That's what a second brain actually is.
+
+00:01:44.630 --> 00:01:46.870
+Continuum does this context management for
+
+00:01:46.870 --> 00:01:48.710
+you, right from your own history.
+
+00:01:48.710 --> 00:01:51.510
+Continuum has these exact same layers.
+
+00:01:51.510 --> 00:01:54.790
+First, your working memory is essentially your constitution.
+
+00:01:54.790 --> 00:01:57.030
+It's an in depth document all about you,
+
+00:01:57.030 --> 00:01:59.670
+and it's written from your own conversations, who
+
+00:01:59.670 --> 00:02:01.990
+you are, what you're building, how you work.
+
+00:02:02.280 --> 00:02:04.840
+What you never want, and how you want help.
+
+00:02:04.840 --> 00:02:07.160
+Your AI reads all of this at the start of
+
+00:02:07.160 --> 00:02:10.440
+every single conversation, completely without you having to ask.
+
+00:02:10.440 --> 00:02:13.640
+Then, right behind it, your semantic memory holds every
+
+00:02:13.640 --> 00:02:16.440
+finding that constitution was written from, with each one
+
+00:02:16.440 --> 00:02:19.160
+tied directly to the exact words you said.
+
+00:02:19.160 --> 00:02:21.880
+Next, your episodic memory is every conversation
+
+00:02:21.880 --> 00:02:24.440
+you've ever had with ChatGPT or Claude.
+
+00:02:24.440 --> 00:02:25.720
+It's fully searchable.
+
+00:02:25.720 --> 00:02:27.000
+So your AI can go back
+
+00:02:27.000 --> 00:02:28.440
+and find the exact moment.
+
+00:02:28.440 --> 00:02:31.880
+And underneath it all, your original files never change.
+
+00:02:32.120 --> 00:02:33.880
+So what does that actually do
+
+00:02:33.880 --> 00:02:35.400
+for you, day to day?
+
+00:02:35.400 --> 00:02:37.480
+Well, your constitution means your AI
+
+00:02:37.480 --> 00:02:39.880
+starts every conversation already knowing you.
+
+00:02:39.880 --> 00:02:41.560
+And I don't just mean the basics.
+
+00:02:41.560 --> 00:02:44.280
+When a topic comes up, let's say pricing, it can
+
+00:02:44.280 --> 00:02:47.800
+pull every finding about your pricing with the source attached.
+
+00:02:47.800 --> 00:02:49.960
+And when it needs those fine details, it
+
+00:02:49.960 --> 00:02:52.600
+simply finds the actual conversation and reads it
+
+00:02:52.600 --> 00:02:54.920
+in context, instead of just guessing.
+
+00:02:54.920 --> 00:02:56.680
+Here is one real example to
+
+00:02:56.680 --> 00:02:58.280
+kind of put that into perspective.
+
+00:02:58.280 --> 00:03:00.440
+Let's say you're planning a new project, and you
+
+00:03:00.440 --> 00:03:03.080
+want to know why an earlier approach didn't work.
+
+00:03:03.080 --> 00:03:04.360
+You just ask.
+
+00:03:04.550 --> 00:03:07.350
+Your AI finds that past conversation, it uses
+
+00:03:07.350 --> 00:03:09.030
+the lesson in the new plan, and it
+
+00:03:09.030 --> 00:03:11.030
+shows you exactly where it came from.
+
+00:03:11.030 --> 00:03:12.870
+You can actually check the source instead
+
+00:03:12.870 --> 00:03:14.630
+of relying on some vague memory.
+
+00:03:14.630 --> 00:03:16.790
+And if it happens to get something wrong, you
+
+00:03:16.790 --> 00:03:19.190
+just tell it, and the document is corrected.
+
+00:03:19.190 --> 00:03:21.750
+Now there are two separate jobs during setup.
+
+00:03:21.750 --> 00:03:23.430
+And honestly, this is the part most people
+
+00:03:23.430 --> 00:03:25.110
+tend to get a bit confused by.
+
+00:03:25.110 --> 00:03:27.350
+Job one makes your history searchable.
+
+00:03:27.350 --> 00:03:28.630
+That just takes minutes.
+
+00:03:28.630 --> 00:03:31.190
+Job two is what writes your constitution.
+
+00:03:31.190 --> 00:03:34.150
+For this, an AI reads your longest conversations against
+
+00:03:34.150 --> 00:03:36.390
+a set of questions about you, and every single
+
+00:03:36.390 --> 00:03:38.950
+answer has to be backed by your own words.
+
+00:03:38.950 --> 00:03:40.710
+That takes real time, because an
+
+00:03:40.710 --> 00:03:42.710
+AI has to actually read.
+
+00:03:42.710 --> 00:03:45.830
+Just remember, searchable does not mean understood.
+
+00:03:45.830 --> 00:03:47.510
+If you keep those two concepts apart,
+
+00:03:47.590 --> 00:03:49.190
+the whole thing is very clear.
+
+00:03:49.190 --> 00:03:51.990
+Let's talk about privacy, just plainly.
+
+00:03:51.990 --> 00:03:54.550
+Your stored history, the search index, and your
+
+00:03:54.550 --> 00:03:56.630
+original files, they stay safely on your Mac
+
+00:03:56.790 --> 00:03:58.310
+or on a drive you choose.
+
+00:03:58.310 --> 00:04:01.270
+Now, your constitution holds private things about your life.
+
+00:04:01.380 --> 00:04:04.100
+Your AI uses those to understand you, and it's
+
+00:04:04.100 --> 00:04:06.340
+told never to repeat them back in a reply.
+
+00:04:06.340 --> 00:04:09.300
+What goes to your AI service is just the constitution
+
+00:04:09.300 --> 00:04:11.860
+and the specific passages it reads while it's helping you.
+
+00:04:11.860 --> 00:04:13.540
+It's the exact same as anything you'd
+
+00:04:13.540 --> 00:04:15.540
+normally paste into a chat yourself.
+
+00:04:15.540 --> 00:04:17.380
+So here's what we're going to do together.
+
+00:04:17.380 --> 00:04:19.060
+There are six steps coming up.
+
+00:04:19.060 --> 00:04:21.700
+Each one features a short explainer just like this,
+
+00:04:21.700 --> 00:04:24.580
+your own numbers beside it, and the suggested choice.
+
+00:04:24.580 --> 00:04:27.060
+You just make the selections, the setup assistant
+
+00:04:27.060 --> 00:04:28.980
+does the heavy lifting, and of course, you
+
+00:04:28.980 --> 00:04:30.900
+can stop at any step along the way.
+
+00:04:31.140 --> 00:04:32.580
+That's Continuum.
+
+00:04:32.580 --> 00:04:34.980
+It's your AI with a memory of who you are.
+
+00:04:34.980 --> 00:04:35.940
+Ready to begin?
+
+00:04:35.940 --> 00:04:37.700
+Press a button below.

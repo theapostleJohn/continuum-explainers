@@ -1,197 +1,148 @@
 WEBVTT
 
-1
-00:00:00.240 --> 00:00:01.840
-This step makes your past
+00:00:00.160 --> 00:00:01.520
+Welcome to The Explainer.
 
-2
-00:00:01.840 --> 00:00:05.360
-conversations easier to find.
+00:00:01.520 --> 00:00:03.120
+We're now on step three.
 
-3
-00:00:05.360 --> 00:00:07.600
-Continuum reads the files you've
+00:00:03.120 --> 00:00:06.560
+This is exactly where your AI's episodic memory gets built.
 
-4
-00:00:07.600 --> 00:00:10.080
-selected and organizes the supported
+00:00:06.560 --> 00:00:10.400
+And essentially everything you've ever said becomes completely searchable.
 
-5
-00:00:10.080 --> 00:00:12.480
-conversation text into a searchable
+00:00:10.400 --> 00:00:13.280
+Let's walk through what actually happens right on your Mac.
 
-6
-00:00:12.480 --> 00:00:13.680
-collection.
+00:00:13.280 --> 00:00:14.880
+So here's what happens.
 
-7
-00:00:13.680 --> 00:00:15.280
-It keeps track of who
+00:00:14.880 --> 00:00:16.720
+The program opens up your export
 
-8
-00:00:15.280 --> 00:00:17.200
-said what and where each
+00:00:16.800 --> 00:00:18.160
+and sorts it all out.
 
-9
-00:00:17.200 --> 00:00:19.120
-passage came from.
+00:00:18.160 --> 00:00:21.440
+Every conversation becomes its own separate entry, and every
 
-10
-00:00:19.120 --> 00:00:21.440
-That distinction matters.
+00:00:21.440 --> 00:00:23.840
+message gets placed right in its proper order.
 
-11
-00:00:21.440 --> 00:00:24.000
-Something an AI suggested isn't
+00:00:23.840 --> 00:00:26.400
+It also keeps a careful track of who said what.
 
-12
-00:00:24.000 --> 00:00:26.800
-automatically something you agreed with.
+00:00:26.400 --> 00:00:28.400
+Your words, the AI's replies, and
 
-13
-00:00:26.800 --> 00:00:28.800
-Keeping your messages separate from
+00:00:28.400 --> 00:00:30.800
+any attachments are all kept apart.
 
-14
-00:00:28.800 --> 00:00:31.120
-its replies helps preserve what
+00:00:30.800 --> 00:00:32.720
+Then it builds an index.
 
-15
-00:00:31.120 --> 00:00:32.800
-actually happened.
+00:00:32.720 --> 00:00:34.640
+Think of an index as just a really fast
 
-16
-00:00:32.800 --> 00:00:35.120
-Once this step finishes, you
+00:00:34.640 --> 00:00:36.880
+way to find any word you've ever typed.
 
-17
-00:00:35.120 --> 00:00:36.960
-can search using words you
+00:00:36.880 --> 00:00:38.480
+And the most important part is
 
-18
-00:00:36.960 --> 00:00:38.720
-remember, such as a project
+00:00:38.480 --> 00:00:40.240
+that nothing is sent anywhere.
 
-19
-00:00:38.720 --> 00:00:41.120
-name or a phrase.
+00:00:40.240 --> 00:00:42.960
+The entire process happens locally on this Mac,
 
-20
-00:00:41.120 --> 00:00:42.800
-The result points back to
+00:00:42.960 --> 00:00:46.000
+and your original file remains completely untouched.
 
-21
-00:00:42.800 --> 00:00:44.480
-the conversation, so you can
+00:00:46.000 --> 00:00:47.440
+Now you might be wondering why
 
-22
-00:00:44.480 --> 00:00:46.880
-read it in context.
+00:00:47.440 --> 00:00:49.200
+does who said what matter?
 
-23
-00:00:46.880 --> 00:00:48.880
-This work happens on your
+00:00:49.200 --> 00:00:50.480
+Well, it's pretty simple.
 
-24
-00:00:48.880 --> 00:00:50.320
-Mac.
+00:00:50.480 --> 00:00:52.960
+Something in AI suggested isn't automatically
 
-25
-00:00:50.320 --> 00:00:51.760
-It doesn't need to send
+00:00:52.960 --> 00:00:54.800
+something you actually agreed with.
 
-26
-00:00:51.760 --> 00:00:53.360
-the conversations to an AI
+00:00:54.800 --> 00:00:57.280
+Keeping your personal messages completely separate from
 
-27
-00:00:53.360 --> 00:00:54.240
-service.
+00:00:57.280 --> 00:00:59.760
+its replies preserves what actually happened.
 
-28
-00:00:54.240 --> 00:00:56.800
-Your original downloaded files stay
+00:01:00.010 --> 00:01:03.290
+So later, when your constitution is being written, it's strictly
 
-29
-00:00:56.800 --> 00:00:58.590
-unchanged.
+00:01:03.290 --> 00:01:06.090
+written from your own words and not the AI's.
 
-30
-00:00:58.590 --> 00:01:00.430
-The estimate below gives you
+00:01:06.090 --> 00:01:08.970
+There is one key thing to be perfectly clear about.
 
-31
-00:01:00.430 --> 00:01:01.470
-an idea of how long
+00:01:08.970 --> 00:01:11.850
+This step fills your episodic memory only.
 
-32
-00:01:01.470 --> 00:01:03.150
-it may take.
+00:01:11.850 --> 00:01:14.410
+After it runs, you can search with words you vaguely
 
-33
-00:01:03.150 --> 00:01:05.870
-Your file size and computer
+00:01:14.410 --> 00:01:17.690
+remember, maybe a project name or just a phrase, and
 
-34
-00:01:05.870 --> 00:01:08.350
-affect the actual time.
+00:01:17.690 --> 00:01:21.050
+every single result points right back to the conversation, allowing
 
-35
-00:01:08.350 --> 00:01:10.190
-If the work is interrupted,
+00:01:21.050 --> 00:01:23.130
+you to read it in its proper context.
 
-36
-00:01:10.190 --> 00:01:12.510
-Continuum can continue from saved
+00:01:23.130 --> 00:01:26.250
+But searchable is not the same as understood.
 
-37
-00:01:12.510 --> 00:01:14.670
-progress.
+00:01:26.250 --> 00:01:29.290
+Your constitution, which is what your AI actually knows about
 
-38
-00:01:14.670 --> 00:01:17.070
-Making something searchable doesn't mean
+00:01:29.290 --> 00:01:32.650
+you, well, that's a totally separate step that's coming up.
 
-39
-00:01:17.070 --> 00:01:18.190
-the AI has read and
+00:01:32.650 --> 00:01:35.050
+As for how long this takes, it generally
 
-40
-00:01:18.190 --> 00:01:19.070
-understood all of it.
+00:01:35.050 --> 00:01:37.370
+takes about one to two minutes per gigabyte.
 
-41
-00:01:19.070 --> 00:01:20.910
-Learning useful preferences and lessons
+00:01:37.370 --> 00:01:40.250
+You'll actually see your own estimate right beside this explainer.
 
-42
-00:01:20.910 --> 00:01:22.510
-is a separate step coming
+00:01:40.250 --> 00:01:42.650
+Also, if it ever gets interrupted, you don't need to
 
-43
-00:01:22.510 --> 00:01:25.710
-up later.
+00:01:42.650 --> 00:01:45.210
+worry, it simply picks up right from where it stopped.
 
-44
-00:01:25.710 --> 00:01:28.110
-After this finishes, the assistant
+00:01:45.210 --> 00:01:47.530
+Once it's completely done, you'll see exactly
 
-45
-00:01:28.110 --> 00:01:29.470
-will show what was brought
+00:01:47.530 --> 00:01:49.770
+how many conversations and messages came in.
 
-46
-00:01:29.470 --> 00:01:30.990
-in and help you try
+00:01:49.770 --> 00:01:51.610
+And we'll run a search together so you can watch
 
-47
-00:01:30.990 --> 00:01:32.430
-a search.
+00:01:51.610 --> 00:01:54.170
+your AI find something you said a year ago.
 
-48
-00:01:32.430 --> 00:01:33.550
-Would you like to build
+00:01:54.170 --> 00:01:55.930
+Build your searchable history now?
 
-49
-00:01:33.550 --> 00:01:35.830
-your searchable history now?
+00:01:56.090 --> 00:01:57.210
+Press a button below.

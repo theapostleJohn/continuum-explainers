@@ -1,181 +1,124 @@
 WEBVTT
 
-1
-00:00:00.160 --> 00:00:01.200
-Where would you like to
+00:00:00.240 --> 00:00:00.960
+Welcome.
 
-2
-00:00:01.200 --> 00:00:03.770
-keep your Continuum memory?
+00:00:00.960 --> 00:00:02.480
+Let's go ahead and move right into
 
-3
-00:00:05.120 --> 00:00:07.120
-Continuum creates a folder for
+00:00:02.480 --> 00:00:04.720
+step two of the setup process.
 
-4
-00:00:07.120 --> 00:00:08.480
-its working copy of your
+00:00:04.720 --> 00:00:06.320
+In this step, we're going to choose
 
-5
-00:00:08.480 --> 00:00:10.720
-conversations and the personal guide
+00:00:06.320 --> 00:00:08.640
+where your AI's memory actually lives.
 
-6
-00:00:10.720 --> 00:00:12.160
-it builds from them.
+00:00:08.640 --> 00:00:11.120
+So Continuum creates just one folder.
 
-7
-00:00:12.160 --> 00:00:13.440
-You can keep that folder
+00:00:11.120 --> 00:00:13.760
+Inside of it goes the working copy of your conversations
 
-8
-00:00:13.440 --> 00:00:14.720
-on this Mac or on
+00:00:13.840 --> 00:00:16.160
+as well as the constitution that's written from them.
 
-9
-00:00:14.720 --> 00:00:22.080
-an external drive.
+00:00:16.160 --> 00:00:18.240
+And don't worry, your original export
 
-10
-00:00:22.080 --> 00:00:23.440
-Keeping it on the Mac
+00:00:18.240 --> 00:00:19.600
+file isn't changed at all.
 
-11
-00:00:23.440 --> 00:00:24.720
-is usually simpler.
+00:00:19.600 --> 00:00:22.160
+That just remains a completely separate copy.
 
-12
-00:00:24.720 --> 00:00:26.160
-Your history is available when
+00:00:22.160 --> 00:00:25.760
+Basically every layer lives inside this one single folder.
 
-13
-00:00:26.160 --> 00:00:27.840
-you're using the computer, without
+00:00:25.760 --> 00:00:27.920
+That means your constitution, the findings it
 
-14
-00:00:27.840 --> 00:00:35.360
-connecting another device.
+00:00:27.920 --> 00:00:30.320
+was written from, and your searchable history.
 
-15
-00:00:35.360 --> 00:00:37.920
-An external drive saves space
+00:00:30.320 --> 00:00:32.800
+As for space, it needs about 1.2
 
-16
-00:00:37.920 --> 00:00:38.960
-on the Mac.
+00:00:32.800 --> 00:00:34.720
+times the size of your export file.
 
-17
-00:00:38.960 --> 00:00:40.480
-The trade-off is that you'll
+00:00:34.720 --> 00:00:36.240
+You'll actually find your own specific
 
-18
-00:00:40.480 --> 00:00:41.440
-need to plug it in
+00:00:36.240 --> 00:00:38.240
+estimate right beside this explainer.
 
-19
-00:00:41.440 --> 00:00:43.200
-whenever Continuum needs to look
+00:00:38.240 --> 00:00:40.080
+Now it can live in two places.
 
-20
-00:00:43.200 --> 00:00:44.880
-up a conversation or save
+00:00:40.080 --> 00:00:42.400
+On this Mac is really the simple answer.
 
-21
-00:00:44.880 --> 00:00:46.080
-an update.
+00:00:42.400 --> 00:00:44.800
+It's just always there while you're using the computer, sitting
 
-22
-00:00:46.080 --> 00:00:47.760
-If the drive is missing,
+00:00:44.800 --> 00:00:47.760
+in a folder called Continuum right in your home folder.
 
-23
-00:00:47.760 --> 00:00:49.200
-the assistant should tell you
+00:00:47.760 --> 00:00:50.480
+Honestly, that's the suggested choice for most people.
 
-24
-00:00:49.200 --> 00:00:51.440
-it can't reach that history.
+00:00:50.480 --> 00:00:53.280
+An external drive, on the other hand, definitely saves space
 
-25
-00:00:51.440 --> 00:00:53.280
-The estimate below shows how
+00:00:53.280 --> 00:00:54.960
+on the Mac, but it does have to be plugged
 
-26
-00:00:53.280 --> 00:00:55.600
-much space your selected files
+00:00:54.960 --> 00:00:57.520
+in whenever your AI needs to access that history.
 
-27
-00:00:55.600 --> 00:00:57.110
-may need.
+00:00:57.520 --> 00:00:59.520
+If it happens to be unplugged, the assistant will
 
-28
-00:00:57.110 --> 00:00:58.790
-Leave some extra room:
+00:00:59.520 --> 00:01:01.360
+just tell you it can't reach the history.
 
-29
-00:00:58.790 --> 00:01:01.270
-adding more conversations or another
+00:01:01.360 --> 00:01:02.400
+Nothing is lost.
 
-30
-00:01:01.270 --> 00:01:02.630
-way to search them will
+00:01:02.870 --> 00:01:05.030
+But wherever you end up putting it, just make
 
-31
-00:01:02.630 --> 00:01:04.390
-make the folder grow.
+00:01:05.030 --> 00:01:07.030
+sure to pick a folder that stays put.
 
-32
-00:01:04.390 --> 00:01:06.070
-Choose a folder that stays
+00:01:07.030 --> 00:01:09.030
+You really don't want one that gets automatically
 
-33
-00:01:06.070 --> 00:01:07.910
-on your computer or drive,
+00:01:09.030 --> 00:01:11.430
+copied to a cloud service because the memory
 
-34
-00:01:07.910 --> 00:01:10.150
-rather than one automatically copied
+00:01:11.430 --> 00:01:13.430
+needs to stay firmly in one place.
 
-35
-00:01:10.150 --> 00:01:12.390
-to a cloud storage service.
+00:01:13.430 --> 00:01:16.470
+The assistant will actually check the location before continuing.
 
-36
-00:01:12.390 --> 00:01:14.150
-The setup assistant will check
+00:01:16.470 --> 00:01:18.390
+And keep in mind the Continuum program
 
-37
-00:01:14.150 --> 00:01:22.230
-the location before continuing.
+00:01:18.550 --> 00:01:20.710
+itself always stays right on the Mac.
 
-38
-00:01:22.230 --> 00:01:24.150
-The Continuum program stays on
+00:01:20.710 --> 00:01:22.390
+This choice we're making right now only
 
-39
-00:01:24.150 --> 00:01:25.750
-your Mac either way.
+00:01:22.390 --> 00:01:24.630
+decides where the memory folder lives.
 
-40
-00:01:25.750 --> 00:01:27.510
-This choice only decides where
+00:01:24.630 --> 00:01:26.710
+This Mac or an external drive.
 
-41
-00:01:27.510 --> 00:01:29.350
-its working memory lives.
-
-42
-00:01:29.350 --> 00:01:37.510
-Your original downloads stay unchanged.
-
-43
-00:01:37.510 --> 00:01:38.630
-Would you like to use
-
-44
-00:01:38.630 --> 00:01:40.150
-this Mac or an external
-
-45
-00:01:40.150 --> 00:01:41.230
-drive?
+00:01:26.710 --> 00:01:28.550
+Press a button below.

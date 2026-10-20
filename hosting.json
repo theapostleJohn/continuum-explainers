@@ -1,8 +1,7 @@
 {
  "parts": {
   "00": [
-   "media/00-what-continuum-is-part1.mp4",
-   "media/00-what-continuum-is-part2.mp4"
+   "media/00-what-continuum-is.mp4"
   ],
   "01": [
    "media/01-get-your-conversations.mp4"
@@ -17,8 +16,7 @@
    "media/04-meaning-search.mp4"
   ],
   "05": [
-   "media/05-build-personal-context-part1.mp4",
-   "media/05-build-personal-context-part2.mp4"
+   "media/05-build-your-constitution.mp4"
   ],
   "06": [
    "media/06-connect-your-tool.mp4"
@@ -27,5 +25,5 @@
    "media/07-understand-your-starting-point.mp4"
   ]
  },
- "cdn_base": "https://cdn.jsdelivr.net/gh/theapostleJohn/continuum-explainers@v1"
+ "cdn_base": "https://cdn.jsdelivr.net/gh/theapostleJohn/continuum-explainers@v2"
 }
